@@ -1,0 +1,12 @@
+Package: com.tungblack.adblockforyoutube
+Name: AdBlock for YouTube
+Version: 1.0.7
+Description: Block YouTube Ads and Video Ads
+Section: Tweaks
+Depends: firmware (>= 8.0)
+Priority: optional
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+dev: freemanrepo
+Depiction: http://tungblack.github.io/
+Maintainer: Tungblack
